@@ -48,7 +48,7 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
  
 ### 🔧 What I'm up to
  
-- 🔐 Implementing OAuth2 (PKCE + XOAUTH2) for a Kotlin email client
+- 🔐 Messing around with ProtonMail Bridge
 - 🐦 Polishing Whirlybird — helping my friend with sprites and sounds
 - 📁 Slowly making `tfm` actually useful
  
