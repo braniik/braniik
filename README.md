@@ -50,5 +50,5 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
  
 - 🔐 Messing around with ProtonMail Bridge
 - 🐦 Polishing Whirlybird — helping my friend with sprites and sounds
-- 📁 Slowly making `tfm` actually useful
+- 📁 Making progress on tfm
  
