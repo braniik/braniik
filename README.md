@@ -49,6 +49,6 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 ### 🔧 What I'm up to
  
 - 🔐 Actively hating Outlook SMTP handling
-- 🐦 Polishing Whirlybird — helping my friend with sprites and sounds
+- 🚀 Astrojumps out soon? 🤔🤔🤔
 - 📁 Making progress on tfm
  
