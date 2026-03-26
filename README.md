@@ -19,7 +19,7 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| 🐦 **Whirlybird** *(WIP)* | [Google Whirlybird](https://images.igdb.com/igdb/image/upload/t_1080p_2x/sckg9l.webp) inspired platformer  with events, powerups, rising lava, and other chaos | C · raylib |
+| 🚀 **Astrojumps** *(WIP)* | [Google Whirlybird](https://images.igdb.com/igdb/image/upload/t_1080p_2x/sckg9l.webp) inspired platformer  with events, powerups, rising lava, and other chaos | C · raylib |
 | 🖥️ **[RadoIDE](https://github.com/braniik/radoide-1.0)** | A minimal IDE for C, written in C that started as a joke, shipped solo in a month while learning GTK | C · GTK |
 | 📁 **[tfm](https://github.com/braniik/tfm)** | "Terminal File Manager", a TUI keyboard-first manager theoretically faster than GUI or CLI, also an excuse to actually learn C++ on a real project | C++ |
 
