@@ -50,5 +50,5 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
  
 - 🔐 Actively hating Outlook SMTP handling
 - 🚀 Astrojumps out soon? 🤔🤔🤔
-- 📁 Making progress on tfm
+- 📁 tfm on AUR soon? 🤔
  
