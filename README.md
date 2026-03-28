@@ -49,6 +49,5 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 ### 🔧 What I'm up to
  
 - 🔐 Playing around with something in Kotlin.
-- 🚀 Astrojumps is out! We'll be adding a couple polishments and a Windows installer as well as an AUR package.
 - 📁 tfm on AUR soon? 🤔
  
