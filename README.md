@@ -49,5 +49,3 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 ### 🔧 What I'm up to
  
 - 🔐 Playing around with something in Kotlin.
-- 📁 tfm on AUR soon? 🤔
- 
