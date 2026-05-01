@@ -50,3 +50,4 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 ### 🔧 What I'm up to
  
 - 📱 Building **[Slate](https://github.com/braniik/slate)**
+- 🧵 Contributing to **[FabricMC](https://github.com/FabricMC)**
