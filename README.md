@@ -23,6 +23,7 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 | 🖥️ **[RadoIDE](https://github.com/braniik/radoide-1.0)** | A minimal IDE for C, written in C that started as a joke, shipped solo in a month while learning GTK | C · GTK |
 | 📱 **[Slate](https://github.com/braniik/slate)** | A minimal Android launcher, so far in development | Kotlin · Compose |
 | 📁 **[tfm](https://github.com/braniik/tfm)** | "Terminal File Manager", a TUI keyboard-first manager theoretically faster than GUI or CLI, also an excuse to actually learn C++ on a real project | C++ |
+| ☕ **[Stack Trace](https://github.com/braniik/stack-trace)** | A minimalistic Java game for the Together Java event called Duke's 8-bit Challenge | Java |
 
 ---
 
@@ -50,4 +51,5 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 ### 🔧 What I'm up to
  
 - 📱 Building **[Slate](https://github.com/braniik/slate)**
+- ☕ Shooting my shot on the Duke's 8-bit Challenge with **[Stack Trace](https://github.com/braniik/stack-trace)**
 - 🧵 Contributing to **[FabricMC](https://github.com/FabricMC)**
