@@ -51,5 +51,4 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
 ### 🔧 What I'm up to
  
 - 📱 Building **[Slate](https://github.com/braniik/slate)**
-- ☕ Shooting my shot on the Duke's 8-bit Challenge with **[Stack Trace](https://github.com/braniik/stack-trace)**
 - 🧵 Contributing to **[FabricMC](https://github.com/FabricMC)**
