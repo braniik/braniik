@@ -39,6 +39,7 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/x86_64_ASM-555555?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
