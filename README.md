@@ -53,3 +53,4 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
  
 - 📱 Building **[Slate](https://github.com/braniik/slate)**
 - 🧵 Contributing to **[FabricMC](https://github.com/FabricMC)**
+- 🌍 Playing with procedural generation in **[worldgen](https://github.com/braniik/worldgen)**
