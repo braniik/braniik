@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Braniik+%F0%9F%91%8B;Branislav+Matula" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   IT & Networking student in Bratislava &nbsp;·&nbsp;
   <img src="https://img.shields.io/badge/Arch-btw-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux" />
@@ -37,7 +33,6 @@ I study Information and Network Technologies at SPŠE Karola Adlera in Bratislav
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/x86_64_ASM-555555?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
 </p>
